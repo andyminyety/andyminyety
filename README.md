@@ -1,16 +1,90 @@
-### Hi there 👋
+---------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**andyminyety/andyminyety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<div>
+  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"></img>
+</div>
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Greeting -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Andy Minyety</h1</summary> 
+  </ul>                                                                       
+</div>
+
+<!-- About Me-->
+<div align="center">
+    <em>
+      I'm a Software Developer passionate about programming and technology.<br/> 
+      I am always on the lookout for new opportunities to learn, contribute, and grow in this exciting world.
+    </em>
+    <p align="center">
+      <br/>
+      <span href="https://www.linkedin.com/in/andyminyety">
+        <img width="110px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+      </span> &nbsp;
+      <span href="mailto:andyminyety@gmail.com">
+        <img width="90px" height="28px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+      </span> &nbsp;
+      <span href = "https://discordapp.com/users/530910475588861954">
+        <img width="105px" height="28px" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+      </span>
+    </p>
+    <p align="center">
+      <img width="160px" height="28px" src="https://komarev.com/ghpvc/?username=andyminyety&label=Profile%20Views&color=030727&style=flat" alt="andyminyety"/> 
+    </p>
+</div>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Languages and Tools -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>Languages and Tools 🛠</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,typescript,cs,dotnet,docker,mysql,mongodb,postman,git,vscode,visualstudio&perline=10"/>
+  </a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- GitHub Stats -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>GitHub Stats 📊</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyminyety&langs_count=10&theme=radical&layout=compact" alt="andyminyety"/>
+</p>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=andyminyety&show_icons=true&theme=radical&rank_icon=github" alt="andyminyety"/>
+</p>
+<p align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=andyminyety&show_icons=true&theme=radical" alt="andyminyety"/>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- GitHub Contributions -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>Contributions 🐍</h2></summary>
+    <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
+  </ul>
+</div>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Thanks -->
+<div align="center" id="user-content-toc">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=4C9CFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;Have+a+good+day+%3A)" alt="Thank you for visiting!"/>
+   </a>
+</div>
