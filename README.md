@@ -80,6 +80,6 @@
 
 <!-- Thanks -->
 <div align="center" id="user-content-toc">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=4C9CFF&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;Have+a+good+day+%3A)" alt="Thank you for visiting!"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=4C9CFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;Have+a+good+day+%3A)" alt="Thank you for visiting!"/>
    </a>
 </div>
