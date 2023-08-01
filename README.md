@@ -1,5 +1,3 @@
----------------------------------------------------------------------------------------------------------------------------------------
-
 <!-- Banner -->
 <div>
   <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"></img>
@@ -70,16 +68,9 @@
 <p align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=andyminyety&show_icons=true&theme=radical" alt="andyminyety"/>
 </p>
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-<!-- GitHub Contributions -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2>Contributions 🐍</h2></summary>
-    <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
-  </ul>
-</div>
+<p align="center">
+  <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
