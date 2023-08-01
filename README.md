@@ -22,7 +22,7 @@
     <br>
     <a href="https://www.linkedin.com/in/andyminyety"><img width="110px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
     <a href="mailto:andyminyety@gmail.com"><img width="90px" height="28px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-    <a href ="https://discordapp.com/users/530910475588861954"><img width="105px" height="28px" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://discordapp.com/users/530910475588861954"><img width="105px" height="28px" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
   <p align="center">
     <a href="https://github.com/andyminyety"><img width="160px" height="28px" src="https://komarev.com/ghpvc/?username=andyminyety&label=Profile%20Views&color=030727&style=flat" alt="andyminyety"/></a>
@@ -80,6 +80,6 @@
 
 <!-- Thanks -->
 <div align="center" id="user-content-toc">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=4C9CFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;Have+a+good+day+%3A)" alt="Thank you for visiting!"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=4C9CFF&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+;Have+a+good+day+%3A)" alt="Thank you for visiting!"/>
    </a>
 </div>
