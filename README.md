@@ -40,7 +40,7 @@
 <!-- Languages and Tools -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2>Languages and Tools 🛠</h2></summary>
+    <summary><h2>Languages & Tools 🛠</h2></summary>
   </ul>
 </div>
 
@@ -72,12 +72,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- GitHub Contributions -->
-<div align="center" id="user-content-toc">
-  <ul>
-    <summary><h2>Snake Eating My Contributions Graph 🐍</h2></summary>
-    <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>Snake Eating My Contributions 🐍</h2></summary>
   </ul>
 </div>
+
+<p align="center">
+  <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
