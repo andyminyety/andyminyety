@@ -20,18 +20,19 @@
     </em>
     <p align="center">
       <br/>
-      <span href="https://www.linkedin.com/in/andyminyety">
+      <a href="https://www.linkedin.com/in/andyminyety">
         <img width="110px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-      </span> &nbsp;
-      <span href="mailto:andyminyety@gmail.com">
+      </a> &nbsp;
+      <a href="mailto:andyminyety@gmail.com">
         <img width="90px" height="28px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-      </span> &nbsp;
-      <span href = "https://discordapp.com/users/530910475588861954">
+      </a> &nbsp;
+      <a href = "https://discordapp.com/users/530910475588861954">
         <img width="105px" height="28px" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-      </span>
-    </p>
+      </a>
     <p align="center">
-      <img width="160px" height="28px" src="https://komarev.com/ghpvc/?username=andyminyety&label=Profile%20Views&color=030727&style=flat" alt="andyminyety"/> 
+      <a href="https://github.com/andyminyety">
+        <img width="160px" height="28px" src="https://komarev.com/ghpvc/?username=andyminyety&label=Profile%20Views&color=030727&style=flat" alt="andyminyety"/> 
+      </a>
     </p>
 </div>
 
