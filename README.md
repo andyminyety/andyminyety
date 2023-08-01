@@ -72,8 +72,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- GitHub Contributions -->
-<div id="user-content-toc">
-  <ul align="center">
+<div align="center" id="user-content-toc">
+  <ul>
     <summary><h2>Snake Eating My Contributions Graph 🐍</h2></summary>
     <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
   </ul>
