@@ -54,10 +54,10 @@
 </div>
 
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyminyety&langs_count=10&theme=radical&layout=compact" alt="andyminyety"/>
+  <img width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andyminyety&langs_count=10&theme=radical&layout=compact" alt="andyminyety"/>
 </p>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=andyminyety&show_icons=true&theme=radical&rank_icon=github" alt="andyminyety"/>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyminyety&show_icons=true&theme=radical&rank_icon=github" alt="andyminyety"/>
 </p>
 <p align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=andyminyety&show_icons=true&theme=radical" alt="andyminyety"/>
