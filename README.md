@@ -8,7 +8,7 @@
 <!-- Greeting -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Andy Minyety</h1</summary> 
+    <summary><h1 align="center">Hi <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="35">, I'm Andy Minyety</h1</summary> 
   </ul>                                                                       
 </div>
 
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,typescript,cs,dotnet,docker,mysql,mongodb,postman,git,vscode,visualstudio&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,typescript,cs,dotnet,docker,mysql,mongodb,postman,git,vscode,visualstudio&perline=10"/>
   </a>
 </p>
 
