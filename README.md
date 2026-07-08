@@ -8,7 +8,7 @@
 <!-- Greeting -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center">Hi <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="35">, I'm Andy Minyety</h1</summary> 
+    <summary><h1 align="center">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9hMjAzbGUwaDczY3MwbDRqc3c3ZW1zNnVlc2R3c3l5NmVucmRxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45" align="top" alt="waving hand">, I'm Andy Minyety</h1></summary> 
   </ul>                                                                       
 </div>
 
@@ -73,7 +73,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/andyminyety/andyminyety/blob/output/github-contribution-grid-snake-dark.svg" alt="andyminyety"/>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
